@@ -107,11 +107,12 @@ http://www.studywithanis.com
 
 ### image syntax
 
-![butterfly](./images/butterfly.png)
+<!--![butterfly](./images/butterfly.png)-->
+<img src="./images/butterfly.png)" width="400" title="butterfly"/>
 
 😆
  
-</br>  
+<br/>  
 
 ### table synax  
 |Name |Email |
